@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ines-sanluis
 - 👀 I’m interested in software development with a focus on frontend
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning UX and interaction design
 - 💞️ I’m looking to collaborate on projects that make a positive impact on our society
 
 <!---
